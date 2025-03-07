@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gloves",
+    "description": "good to wear",
+    "price": 15
+  },
+  {
+    "name": "bat",
+    "description": "good to hit",
+    "price": 149
+  },
+  {
+    "name": "knife",
+    "description": "good to increase salaray",
+    "price": 19
+  }
+]
